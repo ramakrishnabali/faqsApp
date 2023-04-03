@@ -1,0 +1,27 @@
+.appContainer {
+  background-color: #52606d;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.cardContainer {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}

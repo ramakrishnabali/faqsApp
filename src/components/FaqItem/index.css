@@ -1,0 +1,37 @@
+/* Write your code here. */
+/* Write your code here. */
+.listContainer {
+  border-top: 2px solid #d7dae6;
+  border-bottom: 2px solid #d7dae6;
+  border-right: 1px solid #e4e7eb;
+  border-left: 1px solid #e4e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+
+.questionContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px solid transparent;
+  cursor: pointer;
+}
+
+.hr-line {
+  width: 100%;
+}
+
+.answer {
+  font-size: 25px;
+  color: #9aa5b1;
+}
